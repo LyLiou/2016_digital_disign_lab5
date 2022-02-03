@@ -1,0 +1,57 @@
+ 
+****************************************
+Report : clocks
+Design : IIR
+Version: K-2015.06-SP1
+Date   : Mon Jun  6 10:18:13 2016
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk           150.000   {0 75}                        {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : clocks
+Design : IIR
+Version: K-2015.06-SP1
+Date   : Mon Jun  6 10:32:57 2016
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            80.000   {0 40}                        {clk}
+--------------------------------------------------------------------------------
+ 
+****************************************
+Report : clocks
+Design : IIR
+Version: K-2015.06-SP1
+Date   : Mon Jun  6 10:40:21 2016
+****************************************
+
+Attributes:
+    d - dont_touch_network
+    f - fix_hold
+    p - propagated_clock
+    G - generated_clock
+    g - lib_generated_clock
+
+Clock          Period   Waveform            Attrs     Sources
+--------------------------------------------------------------------------------
+clk            90.000   {0 45}                        {clk}
+--------------------------------------------------------------------------------
